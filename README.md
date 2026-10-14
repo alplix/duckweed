@@ -9,6 +9,7 @@ Builds are published on the [Releases](../../releases) page as BOINC anonymous-p
 | Package | Platform | GPU API |
 |---|---|---|
 | `duckweed-O4AS-windows-x86_64` | Windows 10/11, 64-bit | OpenCL (NVIDIA, AMD, Intel) |
+| `duckweed-O4AS-linux-x86_64` | Linux x86-64, glibc 2.27+ | OpenCL (NVIDIA, AMD, Intel) |
 | `duckweed-O4AS-linux-arm64` | Linux arm64, glibc 2.27+ | OpenCL |
 | `duckweed-O4AS-macos-arm64` | macOS 12+, Apple Silicon | OpenCL (Apple GPU) |
 | `duckweed-O4AS-macos-x86_64` | macOS 10.15+, Intel | OpenCL |
